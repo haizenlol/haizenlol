@@ -1,6 +1,6 @@
 - 👋 Hi, I’m haizen
 - 👀 I’m interested in metroidvania games
-- 🌱 I’m currently learning C# and JavaScript
+- 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on some games
 - 📫 How to reach me game productions
 
